@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaitlyn
 - 👀 I’m interested in: data analysis
-- 🌱 I’m currently learning: pandas
+- 🌱 I’m currently learning: python
 - 📫 How to reach me: katsnowstorm913@gmail.com
 
 <!---
