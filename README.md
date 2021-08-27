@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaitlyn
 - 👀 I’m interested in: data analysis
-- 🌱 I’m currently learning: html
+- 🌱 I’m currently learning: javascript & machine learning
 - ✨ Languages learned: C++, Python, VBA, html, SQL
 
 <!---
