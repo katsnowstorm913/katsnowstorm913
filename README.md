@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kaitlyn
+- 👋 Hi, I’m Kaitlyn (Leo)
 - 👀 I’m interested in: data analysis
 - 🌱 I’m currently learning: Power BI
 - ✨ Languages learned: C++, Python, VBA, html, SQL, javascript
